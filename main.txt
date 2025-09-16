@@ -1,0 +1,8 @@
+This is the write-up for A858 challenge conducted in IIT-BHU
+
+Team id : cosmic-dragon-656
+Team name : ratlamichatoras
+
+Team members : Pranshu Goyal, Vatsal Varenya, Snehil Soumya, Rajdeep Ghosh, Saumil Yadav
+
+Ok so lets see how the solution goes....
