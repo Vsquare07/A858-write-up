@@ -15,4 +15,4 @@ This way the stage 1 is completed
 
 <b><h3>The TujheDIkhNahiRaha.txt file</h3></b>
 
-It is just blank code with a dot at the end, what could possibly be the logic behind? If we just go through the lines we will observe that the number of spaces are different. Now we opened this txt file in VScode because it has a feature to show number of spaces and this is a small part of what we saw <img width="722" height="1378" alt="image" src="https://github.com/user-attachments/assets/28ec247e-ff7a-48f1-ae90-a6f47362c1b0" />
+It is just blank code with a dot at the end, what could possibly be the logic behind? If we just go through the lines we will observe that the number of spaces are different. Now we opened this txt file in VScode because it has a feature to show number of spaces and this is a small part of what we saw  <img width="120" height="230" alt="image" src="https://github.com/user-attachments/assets/28ec247e-ff7a-48f1-ae90-a6f47362c1b0" />
