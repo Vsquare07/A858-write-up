@@ -32,7 +32,8 @@ This way the stage 2 is completed
 
 <b><h3>The search in A858 reddit</h3></b>
 
-*Many posts in this subreddit were distracting such as [this post](https://www.reddit.com/r/858A/comments/1ndptax/click_if_you_are_not_gay_direct_answers/ "hover text") had some crazy thing(which we later found is called Obfuscated Javascript), I pasted it in chatgpt😈 and it was rick roll 😢💀. One of the interesting posts was this : 
+*Many posts in this subreddit were distracting such as [this post](https://www.reddit.com/r/858A/comments/1ndptax/click_if_you_are_not_gay_direct_answers/ "hover text") 
+had some crazy thing(which we later found is called Obfuscated Javascript), I pasted it in chatgpt😈 and it was rick roll 😢💀. One of the interesting posts was this : 
 
 <img width="768" height="343" alt="image" src="https://github.com/user-attachments/assets/9081ac0e-db30-4af8-8a7b-1d47f1591bf4" />
 , but [this one](https://www.reddit.com/r/858A/comments/1nff30a/help_needed/ "hover text") was very special. Nothing special at first glance, just a screen shot but the crazy part is the tabs opened. The first tab shows [Subreddit Ali3n1nva5i0n](https://www.reddit.com/r/Ali3n1nva5i0n/ "hover text")
