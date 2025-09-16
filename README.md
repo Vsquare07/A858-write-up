@@ -32,18 +32,18 @@ This way the stage 2 is completed
 
 <b><h3>The search in A858 reddit</h3></b>
 
-Many posts in this subreddit were distracting, but [this one](https://www.reddit.com/r/858A/comments/1nff30a/help_needed/ "hover text") was very special. Nothing special at first glance, just a screen shot but the crazy part is the tabs opened. The first tab shows [Subreddit Ali3n1nva5i0n](https://www.reddit.com/r/Ali3n1nva5i0n/ "hover text")
+*Many posts in this subreddit were distracting, but [this one](https://www.reddit.com/r/858A/comments/1nff30a/help_needed/ "hover text") was very special. Nothing special at first glance, just a screen shot but the crazy part is the tabs opened. The first tab shows [Subreddit Ali3n1nva5i0n](https://www.reddit.com/r/Ali3n1nva5i0n/ "hover text")
 
 Over here QR-3 is simply given in this [post](https://www.reddit.com/r/Ali3n1nva5i0n/comments/1nfejil/there_you_go/)
 
 <img width="750" height="666" alt="image" src="https://github.com/user-attachments/assets/a0217b53-bd70-4097-a55f-f73819ac4eff" />
 
-Now we went back to A858, where [this post](https://www.reddit.com/r/858A/comments/1ndpj1u/messi_better/ "hover text") looked funny because it says Messi is better with Ronaldo photo. HOWEVER the mods were fighting in the comment and one of them had QR-2 as their profile pic :skull:
+*Now we went back to A858, where [this post](https://www.reddit.com/r/858A/comments/1ndpj1u/messi_better/ "hover text") looked funny because it says Messi is better with Ronaldo photo. HOWEVER the mods were fighting in the comment and one of them had QR-2 as their profile pic :skull:
 
 <img width="252" height="170" alt="image" src="https://github.com/user-attachments/assets/6f13d65b-de8f-469e-b2b3-88fc2f00fab6" />
 <img width="280" height="281" alt="image" src="https://github.com/user-attachments/assets/029ca312-3220-43fa-bfab-6ff12791c044" />
 
-After scanning through the posts, we came across this [post](https://www.reddit.com/r/858A/comments/1nfgnao/i_love_4chan/ "hover text")
+*After scanning through the posts, we came across this [post](https://www.reddit.com/r/858A/comments/1nfgnao/i_love_4chan/ "hover text")
 
 <img width="418" height="226" alt="image" src="https://github.com/user-attachments/assets/b514118a-fdc7-459a-8414-8d4f1c14559d" />
 
