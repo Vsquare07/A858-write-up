@@ -43,10 +43,9 @@ Now we went back to A858, where [this post](https://www.reddit.com/r/858A/commen
 <img width="252" height="170" alt="image" src="https://github.com/user-attachments/assets/6f13d65b-de8f-469e-b2b3-88fc2f00fab6" />
 <img width="280" height="281" alt="image" src="https://github.com/user-attachments/assets/029ca312-3220-43fa-bfab-6ff12791c044" />
 
+After scanning through the posts, we came across this [post](https://www.reddit.com/r/858A/comments/1nfgnao/i_love_4chan/ "hover text")
 
 <img width="418" height="226" alt="image" src="https://github.com/user-attachments/assets/b514118a-fdc7-459a-8414-8d4f1c14559d" />
-
-After scanning through the posts, we came across this [post](https://www.reddit.com/r/858A/comments/1nfgnao/i_love_4chan/ "hover text")
 
 This comment indicated us to join the clash of clans clan. In clan description we found [latitudinal coordinate](https://github.com/Vsquare07/A858-write-up/blob/main/longitude_line.html "hover text") for our next hint.
 
