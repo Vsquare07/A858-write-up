@@ -75,10 +75,7 @@ The pastebin txt in its comments had a code which lacked the string key which ha
 
 <img width="744" height="256" alt="image" src="https://github.com/user-attachments/assets/41ebe722-c372-433b-a388-e1cd24b5d419" />
 
-
-
-
-From here we got a googledrive link that contained this picture : 
+Our teammate Pranshu combined the code and the string which gave us the googledrive link that contained this picture : 
 <img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ba3838c2-536d-4600-88ea-9d845917384e" />
 
 It didnt took us much time to realise this place is near LC, we went to this tree and a qr code that took us to QR-1!!!!
