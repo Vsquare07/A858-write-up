@@ -71,5 +71,8 @@ This part was so much time taking that we had to ask for a hint from a senior, h
 
 After spending even more time [this post](https://www.reddit.com/r/858A/comments/1nffqdm/found_a_new_cipher_the_game_of_secrets_just_got/ "hover text") was our lead after a long time :)
 
+The pastebin txt in its comments had a code which lacked the string key which had to be decoded. We tried putting the previously found strings but it didnt work. Soon we came across [another post](https://www.reddit.com/r/858A/comments/1nfgc00/my_brain_is_fried/ "hover text") which had a comment as follows
+
+<img width="744" height="256" alt="image" src="https://github.com/user-attachments/assets/41ebe722-c372-433b-a388-e1cd24b5d419" />
 
 
