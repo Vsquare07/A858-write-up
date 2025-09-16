@@ -58,7 +58,7 @@ Out of all the possible places, we guessed that ABLT is the place and we found t
 
 <img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/b1e0e80d-324a-409e-96c6-d9acbeac2586" /> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e7696f1f-379c-46ce-a250-5539a3b8359f" />
 
-<b><h3>Finding the QR-4 😢(took 80% of the total time)</h3></b>
+<b><h3>Finding the QR-1 😢(took 80% of the total time)</h3></b>
 Continuing our research in Alieninvasion subreddit, a [pokemon post](https://www.reddit.com/r/Ali3n1nva5i0n/comments/1n4di1x/pokemon_is_cool/) had something in its comments. I had no idea but our teammate Pranshu was familiar with ctfs and applied some decoding algorithms on the strings in comments like base64 and we got the following output
 
 <img width="577" height="186" alt="image" src="https://github.com/user-attachments/assets/3cb4976a-ad2d-4590-89e4-37650707158b" />
@@ -69,10 +69,24 @@ After this we were clueless what to do!!!! VERY FRUSTATING
 
 This part was so much time taking that we had to ask for a hint from a senior, he told us to stick to A858 reddit :)
 
-After spending even more time [this post](https://www.reddit.com/r/858A/comments/1nffqdm/found_a_new_cipher_the_game_of_secrets_just_got/ "hover text") was our lead after a long time :)
+After spending even more time [this post](https://www.reddit.com/r/858A/comments/1nffqdm/found_a_new_cipher_the_game_of_secrets_just_got/ "hover text") was our lead after a long time 🥳
 
 The pastebin txt in its comments had a code which lacked the string key which had to be decoded. We tried putting the previously found strings but it didnt work. Soon we came across [another post](https://www.reddit.com/r/858A/comments/1nfgc00/my_brain_is_fried/ "hover text") which had a comment as follows
 
 <img width="744" height="256" alt="image" src="https://github.com/user-attachments/assets/41ebe722-c372-433b-a388-e1cd24b5d419" />
 
 
+
+
+From here we got a googledrive link that contained this picture : 
+<img width="960" height="1280" alt="image" src="https://github.com/user-attachments/assets/ba3838c2-536d-4600-88ea-9d845917384e" />
+
+It didnt took us much time to realise this place is near LC, we went to this tree and a qr code that took us to QR-1!!!!
+<img width="277" height="277" alt="image" src="https://github.com/user-attachments/assets/5607d07c-a1c9-47d2-9f92-35ff69d19cbb" /><img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/9a4f631f-8bab-46ad-bc6b-b0eeb848efeb" />
+
+We had all the QR CODES!!!!!
+We put them together using Whatsapp 💀 like this
+
+<img width="549" height="544" alt="image" src="https://github.com/user-attachments/assets/31dee72a-5ba9-4675-8ac3-8c79dd7a4cc6" />
+
+After scanning we got the final string and the challenge was completed.
