@@ -32,13 +32,16 @@ This way the stage 2 is completed
 
 <b><h3>The search in A858 reddit</h3></b>
 
-*Many posts in this subreddit were distracting, but [this one](https://www.reddit.com/r/858A/comments/1nff30a/help_needed/ "hover text") was very special. Nothing special at first glance, just a screen shot but the crazy part is the tabs opened. The first tab shows [Subreddit Ali3n1nva5i0n](https://www.reddit.com/r/Ali3n1nva5i0n/ "hover text")
+*Many posts in this subreddit were distracting such as [this post](https://www.reddit.com/r/858A/comments/1ndptax/click_if_you_are_not_gay_direct_answers/ "hover text") had some crazy thing(which we later found is called Obfuscated Javascript), I pasted it in chatgpt😈 and it was rick roll 😢💀. One of the interesting posts was this : 
+
+<img width="768" height="343" alt="image" src="https://github.com/user-attachments/assets/9081ac0e-db30-4af8-8a7b-1d47f1591bf4" />
+, but [this one](https://www.reddit.com/r/858A/comments/1nff30a/help_needed/ "hover text") was very special. Nothing special at first glance, just a screen shot but the crazy part is the tabs opened. The first tab shows [Subreddit Ali3n1nva5i0n](https://www.reddit.com/r/Ali3n1nva5i0n/ "hover text")
 
 Over here QR-3 is simply given in this [post](https://www.reddit.com/r/Ali3n1nva5i0n/comments/1nfejil/there_you_go/)
 
 <img width="750" height="666" alt="image" src="https://github.com/user-attachments/assets/a0217b53-bd70-4097-a55f-f73819ac4eff" />
 
-*Now we went back to A858, where [this post](https://www.reddit.com/r/858A/comments/1ndpj1u/messi_better/ "hover text") looked funny because it says Messi is better with Ronaldo photo. HOWEVER the mods were fighting in the comment and one of them had QR-2 as their profile pic :skull:
+*Now we went back to A858, where [this post](https://www.reddit.com/r/858A/comments/1ndpj1u/messi_better/ "hover text") looked funny because it says Messi is better with Ronaldo photo. HOWEVER the mods were fighting in the comment and one of them had QR-2 as their profile pic 💀
 
 <img width="252" height="170" alt="image" src="https://github.com/user-attachments/assets/6f13d65b-de8f-469e-b2b3-88fc2f00fab6" />
 <img width="280" height="281" alt="image" src="https://github.com/user-attachments/assets/029ca312-3220-43fa-bfab-6ff12791c044" />
@@ -55,6 +58,16 @@ Out of all the possible places, we guessed that ABLT is the place and we found t
 
 <img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/b1e0e80d-324a-409e-96c6-d9acbeac2586" /> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e7696f1f-379c-46ce-a250-5539a3b8359f" />
 
+<b><h3>Finding the QR-4 😢(took 80% of the total time)</h3></b>
+Continuing our research in Alieninvasion subreddit, a [pokemon post](https://www.reddit.com/r/Ali3n1nva5i0n/comments/1n4di1x/pokemon_is_cool/) has something in its comments. I had no idea but our teammate Pranshu was familiar with ctfs and applied some decoding algorithms on the strings in comments like base64 and we got the following output
+
+<img width="577" height="186" alt="image" src="https://github.com/user-attachments/assets/3cb4976a-ad2d-4590-89e4-37650707158b" />
+
+Notice that all the outputs had 858 in them, moreover one of them says 8:58 is related to the `KEY` _this part is useful later_
+After this we were clueless what to do!!!! VERY FRUSTATING
+This part was so much time taking that we had to ask for a hint from a senior, he told us to stick to A858 reddit :)
+
+After spending even more time [this post](https://www.reddit.com/r/858A/comments/1nffqdm/found_a_new_cipher_the_game_of_secrets_just_got/ "hover text") was our lead after a long time :)
 
 
 
