@@ -31,3 +31,17 @@ The 1s in between looks like garbage, lets ignore it. Now we get a direct intuit
 This way the stage 2 is completed
 
 <b><h3>The search in A858 reddit</h3></b>
+
+After scanning through the posts, we came across this [post](https://www.reddit.com/r/858A/comments/1nfgnao/i_love_4chan/ "hover text")
+<img width="418" height="226" alt="image" src="https://github.com/user-attachments/assets/b514118a-fdc7-459a-8414-8d4f1c14559d" />
+
+This comment indicated us to join the clash of clans clan. In clan description we found [latitudinal coordinate](https://github.com/Vsquare07/A858-write-up/blob/main/longitude_line.html "hover text") for our next hint.
+
+<img width="477" height="668" alt="image" src="https://github.com/user-attachments/assets/bd93d4ff-567c-4209-b86f-e7960f6b020f" />
+
+Out of all the possible places, we guessed that ABLT is the place and we found the link for QR-4 on the wall
+
+<img width="774" height="1032" alt="image" src="https://github.com/user-attachments/assets/b1e0e80d-324a-409e-96c6-d9acbeac2586" /> <img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/5faa74ab-dd26-4376-b6ba-c3bd93344c20" />
+
+
+
