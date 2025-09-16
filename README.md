@@ -59,12 +59,14 @@ Out of all the possible places, we guessed that ABLT is the place and we found t
 <img width="387" height="516" alt="image" src="https://github.com/user-attachments/assets/b1e0e80d-324a-409e-96c6-d9acbeac2586" /> <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e7696f1f-379c-46ce-a250-5539a3b8359f" />
 
 <b><h3>Finding the QR-4 😢(took 80% of the total time)</h3></b>
-Continuing our research in Alieninvasion subreddit, a [pokemon post](https://www.reddit.com/r/Ali3n1nva5i0n/comments/1n4di1x/pokemon_is_cool/) has something in its comments. I had no idea but our teammate Pranshu was familiar with ctfs and applied some decoding algorithms on the strings in comments like base64 and we got the following output
+Continuing our research in Alieninvasion subreddit, a [pokemon post](https://www.reddit.com/r/Ali3n1nva5i0n/comments/1n4di1x/pokemon_is_cool/) had something in its comments. I had no idea but our teammate Pranshu was familiar with ctfs and applied some decoding algorithms on the strings in comments like base64 and we got the following output
 
 <img width="577" height="186" alt="image" src="https://github.com/user-attachments/assets/3cb4976a-ad2d-4590-89e4-37650707158b" />
 
 Notice that all the outputs had 858 in them, moreover one of them says 8:58 is related to the `KEY` _this part is useful later_
+
 After this we were clueless what to do!!!! VERY FRUSTATING
+
 This part was so much time taking that we had to ask for a hint from a senior, he told us to stick to A858 reddit :)
 
 After spending even more time [this post](https://www.reddit.com/r/858A/comments/1nffqdm/found_a_new_cipher_the_game_of_secrets_just_got/ "hover text") was our lead after a long time :)
