@@ -27,7 +27,7 @@ Hmmmmm, interesting, what if we find the decimal number corresponding to these b
 
 <img width="72" height="476" alt="image" src="https://github.com/user-attachments/assets/a530adb8-b8ca-40b4-be47-9d75adecc8b4" />
 
-Now we get a direct intuition to replace them with their ASCII values and finally we arrived at a reddit link : https://www.reddit.com/r/858A/
+The 1s in between looks like garbage, lets ignore it. Now we get a direct intuition to replace them with their ASCII values and finally we arrived at a reddit link : https://www.reddit.com/r/858A/
 This way the stage 2 is completed
 
 <b><h3>The search in A858 reddit</h3></b>
