@@ -88,4 +88,6 @@ We put them together using Whatsapp 💀 like this
 
 <img width="549" height="544" alt="image" src="https://github.com/user-attachments/assets/31dee72a-5ba9-4675-8ac3-8c79dd7a4cc6" />
 
-After scanning we got the final string and the challenge was completed.
+After scanning we got the final string whete the hint for key was given, we tried with some changes and it was A858 🥳
+
+Finally the challenge was completed!
